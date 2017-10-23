@@ -12,4 +12,5 @@ git log
 git diff
 git branch
 git checkout -b "Name"
+git log --graph --oneline --all
 ```
