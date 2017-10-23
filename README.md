@@ -14,4 +14,5 @@ git branch
 git checkout -b "Name"
 git reset
 git reset --hard
+git remote add https://github.com/tecnica-de-programacion/git-class.git
 ```
